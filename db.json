@@ -2,15 +2,38 @@
     "recipes": [
         {
             "id": 0,
-            "title": "Makaron z serem"
+            "title": "Ryż curry z kurczakiem i warzywami",
+            "difficulty": 0, 
+            "description": "Ryż z przyprawą curry ze smażonym kurczakiem i warzywami to idealny pomysł na obiad w klimacie azjatyckim.",
+            "items": [
+                "pierś z kurczaka",
+                "przyprawa do kurczaka",
+                "ryż długoziarnisty 300g",
+                "mrożona mieszanka chińska 300g",
+                "kukurydza z puszki 150g",
+                "pieczarki – 4 sztuki",
+                "przyprawa curry – 2 łyżeczki",
+                "oliwa z oliwek – 1 łyzka",
+                "sos sojowy – 1 łyzka"
+            ],
+            "steps": [
+                "Ryż wsyp do wody i dodaj łyżeczkę przyprawy curry. Ryż gotuj na małym ogniu, by pozostał sypki.",
+                "Pokrój pierś z kurczaka i obtocz w przyprawie do kurczaka.",
+                "Usmaż kurczaka na oliwie. Pokrój pieczarki i dodaj do mięsa wraz z kukurydzą i mieszanką chińską.",
+                "Wlej sos sojowy i dopraw jedną łyżeczką przyprawy curry. Wszystko wymieszaj."
+            ]
         },
         {
             "id": 1,
-            "title": "Krewety w sosie"
-        },
-        {
-            "id": 2,
-            "title": "Spaghetti ni"
+            "title": "",
+            "difficulty": 0,
+            "description": "",
+            "items": [
+                ""
+            ],
+            "steps": [
+                ""
+            ]
         }
     ]
 }
